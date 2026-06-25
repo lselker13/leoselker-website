@@ -8,8 +8,7 @@
 </head>
 <body>
   <nav>
-    <a href="#top" class="site-name">Leo Selker</a>
-    <a href="#about">About</a>
+    <a href="#top">Home</a>
     <a href="#projects">Projects</a>
     <a href="#writing">Writing</a>
   </nav>
@@ -21,12 +20,6 @@
         <h1>Leo Selker</h1>
         <p>A sentence or two about who you are and what you do. Keep it short — visitors can learn more below.</p>
       </div>
-    </section>
-
-    <section id="about" class="page">
-      <h2>About</h2>
-      <p>Write a longer bio here. Where are you based, what do you work on, what are you interested in?</p>
-      <p>A second paragraph if you want one.</p>
     </section>
 
     <section id="projects" class="page">
