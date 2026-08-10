@@ -92,9 +92,25 @@ main {
 }
 
 .page p {
-  font-size: 0.9rem;
+  font-size: 1.05rem;
   color: #333;
+}
+
+.page p.subitem,
+.page ul li {
+  font-size: 0.9rem;
+}
+
+.page p {
   margin-bottom: 1rem;
+}
+
+.page ul {
+  margin: 0 0 1rem 1.25rem;
+}
+
+.page li {
+  margin-bottom: 0.5rem;
 }
 
 .page p:last-child {
